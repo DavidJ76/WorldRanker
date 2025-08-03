@@ -33,26 +33,6 @@ WorldRanker is a full-stack travel comparison web application that allows users 
 
 ---
 
-## 📁 Project Structure
-WorldRanker/
-├── frontend/
-│ ├── index.html
-│ ├── login.html
-│ ├── register.html
-│ ├── home.html
-│ ├── country.html
-│ ├── styles/
-│ └── scripts/
-├── backend/
-│ ├── server.js
-│ ├── routes/
-│ └── db/
-├── database/
-│ └── schema.sql
-└── README.md
-
----
-
 
 ## 📸 Screenshots 
 
