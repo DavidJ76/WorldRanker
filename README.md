@@ -1,10 +1,10 @@
-# WorldRanker 🌍✈️
+# WorldRanker 
 
 WorldRanker is a full-stack travel comparison web application that allows users to explore, rate, and review countries based on several lifestyle and travel-related categories. The goal of the project was to simulate a modern travel site with user-generated content and an interactive, responsive interface.
 
 ---
 
-## 🚀 Features
+## Features
 
 - Compare countries based on 8 categories: City Life, Food, History, Architecture, Beaches, Affordability, Nature, and Transportation  
 - Star rating system for each category  
@@ -14,7 +14,7 @@ WorldRanker is a full-stack travel comparison web application that allows users 
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 ### Frontend:
 - HTML5  
@@ -34,7 +34,7 @@ WorldRanker is a full-stack travel comparison web application that allows users 
 ---
 
 
-## 📸 Screenshots 
+## Screenshots 
 
 <img width="1894" height="900" alt="image" src="https://github.com/user-attachments/assets/56aa128e-72ee-45bd-91df-4271ecd33082" />
 <img width="1881" height="887" alt="image" src="https://github.com/user-attachments/assets/531e6fcd-86f9-4bfa-a0fa-40ceb6496c5d" />
@@ -42,7 +42,7 @@ WorldRanker is a full-stack travel comparison web application that allows users 
 
 ---
 
-## 📚 Learning Outcomes
+## Learning Outcomes
 
 This project helped me:
 - Practice full-stack development and build both front-end and back-end components  
